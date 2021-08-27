@@ -78,12 +78,14 @@ if [ -x /usr/bin/dircolors ]; then
     alias ls='ls --color=auto'
     alias l='ls -la'
     alias att='sudo apt-get update && sudo apt-get upgrade'
+    alias pp='cd /mnt/c/Users/aldair/Downloads/code'
     #alias dir='dir --color=auto'
     #alias vdir='vdir --color=auto'
 
     alias grep='grep --color=auto'
     alias fgrep='fgrep --color=auto'
     alias egrep='egrep --color=auto'
+    alias src="source ~/.bashrc"
 fi
 
 # colored GCC warnings and errors
@@ -117,3 +119,7 @@ if ! shopt -oq posix; then
     . /etc/bash_completion
   fi
 fi
+
+. $HOME/.asdf/asdf.sh
+
+. $HOME/.asdf/completions/asdf.bash
