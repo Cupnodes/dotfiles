@@ -1,0 +1,6 @@
+[2021-08-28 12:33:25.748] [exthost] [info] extension host started
+[2021-08-28 12:33:26.532] [exthost] [info] Lock '/home/aldair/.vscode-server/data/User/workspaceStorage/009dc5b1ae07e179a750e012b6c14908/vscode.lock': Lock acquired.
+[2021-08-28 14:06:03.314] [exthost] [info] extension host terminating: received terminate message from renderer
+[2021-08-28 14:06:08.863] [exthost] [info] Lock '/home/aldair/.vscode-server/data/User/workspaceStorage/009dc5b1ae07e179a750e012b6c14908/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+[2021-08-28 14:06:24.381] [exthost] [error] [ExtHostStorage] {"code":"Unknown","name":"Canceled (FileSystemError)"}
+[2021-08-28 14:06:26.433] [exthost] [info] exiting with code 0

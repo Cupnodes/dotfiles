@@ -79,6 +79,7 @@ if [ -x /usr/bin/dircolors ]; then
     alias l='ls -la'
     alias att='sudo apt-get update && sudo apt-get upgrade'
     alias pp='cd /mnt/c/Users/aldair/Downloads/code'
+    alias docker='sudo docker'
     #alias dir='dir --color=auto'
     #alias vdir='vdir --color=auto'
 

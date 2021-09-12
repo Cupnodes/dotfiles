@@ -1,0 +1,36 @@
+[2021-09-07 12:42:50.738] [remoteagent] [info] 
+
+*
+* Visual Studio Code Server
+*
+* Reminder: You may only use this software with Visual Studio family products,
+* as described in the license https://aka.ms/vscode-remote/license
+*
+
+
+[2021-09-07 12:42:50.738] [remoteagent] [info] Extension host agent started.
+[2021-09-07 12:42:52.823] [remoteagent] [info] [::ffff:172.27.96.1][9ca711f6][ManagementConnection] New connection established.
+[2021-09-07 12:42:52.827] [remoteagent] [info] [::ffff:172.27.96.1][cca02498][ExtensionHostConnection] New connection established.
+[2021-09-07 12:42:52.842] [remoteagent] [info] [::ffff:172.27.96.1][cca02498][ExtensionHostConnection] <4161> Launched Extension Host Process.
+[2021-09-07 12:44:41.132] [remoteagent] [info] Installing extension: ms-azuretools.vscode-docker
+[2021-09-07 12:44:43.706] [remoteagent] [info] Downloaded extension: ms-azuretools.vscode-docker /home/aldair/.vscode-server/data/CachedExtensionVSIXs/ms-azuretools.vscode-docker-1.16.1
+[2021-09-07 12:44:44.998] [remoteagent] [info] Extracted extension to /home/aldair/.vscode-server/extensions/.6e9fad80-6d04-4324-a01f-7e8adf3a51c6: ms-azuretools.vscode-docker
+[2021-09-07 12:44:45.243] [remoteagent] [info] Renamed to /home/aldair/.vscode-server/extensions/ms-azuretools.vscode-docker-1.16.1
+[2021-09-07 12:44:45.251] [remoteagent] [info] Extracting completed. ms-azuretools.vscode-docker
+[2021-09-07 12:44:45.404] [remoteagent] [info] Extension installed successfully: ms-azuretools.vscode-docker
+[2021-09-07 13:47:23.141] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2021-09-07 13:48:01.001] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2021-09-07 13:48:03.824] [remoteagent] [info] [::ffff:172.27.96.1][cca02498][ExtensionHostConnection] The client has reconnected.
+[2021-09-07 13:51:02.894] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2021-09-07 13:51:48.499] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2021-09-07 13:51:55.113] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2021-09-07 13:53:06.625] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2021-09-07 13:54:12.233] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2021-09-07 13:54:50.910] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2021-09-07 13:55:10.809] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2021-09-07 13:55:38.076] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2021-09-07 13:58:34.156] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2021-09-07 13:58:47.799] [remoteagent] [info] [::ffff:172.27.96.1][9ca711f6][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2021-09-07 13:58:48.962] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2021-09-07 13:58:56.935] [remoteagent] [error] No ptyHost heartbeat after 12 seconds
+[2021-09-07 13:59:37.279] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds

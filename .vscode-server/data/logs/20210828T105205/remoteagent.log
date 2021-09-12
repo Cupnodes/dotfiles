@@ -1,0 +1,20 @@
+[2021-08-28 10:52:07.311] [remoteagent] [info] 
+
+*
+* Visual Studio Code Server
+*
+* Reminder: You may only use this software with Visual Studio family products,
+* as described in the license https://aka.ms/vscode-remote/license
+*
+
+
+[2021-08-28 10:52:07.312] [remoteagent] [info] Extension host agent started.
+[2021-08-28 10:52:12.721] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2021-08-28 10:52:14.076] [remoteagent] [info] [::ffff:192.168.224.1][06e3a025][ManagementConnection] New connection established.
+[2021-08-28 10:52:14.082] [remoteagent] [info] [::ffff:192.168.224.1][cb8ed692][ExtensionHostConnection] New connection established.
+[2021-08-28 10:52:15.847] [remoteagent] [error] [resolve shell env] Could not resolve shell environment within 10 seconds. Proceeding without shell environment...
+[2021-08-28 10:52:15.848] [remoteagent] [error] getUnixShellEnvironment#error An unknown error occurred. Please consult the log for more details.
+[2021-08-28 10:52:18.131] [remoteagent] [info] [::ffff:192.168.224.1][cb8ed692][ExtensionHostConnection] <962> Launched Extension Host Process.
+[2021-08-28 10:53:00.326] [remoteagent] [info] [::ffff:192.168.224.1][06e3a025][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2021-08-28 10:53:01.530] [remoteagent] [info] [::ffff:192.168.224.1][cb8ed692][ExtensionHostConnection] <962> Extension Host Process exited with code: 0, signal: null.
+[2021-08-28 10:53:01.531] [remoteagent] [info] Last EH closed, waiting before shutting down

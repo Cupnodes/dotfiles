@@ -1,0 +1,23 @@
+[2021-08-28 10:53:25.623] [remoteagent] [info] 
+
+*
+* Visual Studio Code Server
+*
+* Reminder: You may only use this software with Visual Studio family products,
+* as described in the license https://aka.ms/vscode-remote/license
+*
+
+
+[2021-08-28 10:53:25.623] [remoteagent] [info] Extension host agent started.
+[2021-08-28 10:53:26.232] [remoteagent] [info] [::ffff:192.168.224.1][9d337557][ManagementConnection] New connection established.
+[2021-08-28 10:53:26.236] [remoteagent] [info] [::ffff:192.168.224.1][80ba354e][ExtensionHostConnection] New connection established.
+[2021-08-28 10:53:27.142] [remoteagent] [info] [::ffff:192.168.224.1][80ba354e][ExtensionHostConnection] <1107> Launched Extension Host Process.
+[2021-08-28 10:57:36.670] [remoteagent] [info] Installing extension: formulahendry.code-runner
+[2021-08-28 10:57:38.826] [remoteagent] [info] Downloaded extension: formulahendry.code-runner /home/aldair/.vscode-server/data/CachedExtensionVSIXs/formulahendry.code-runner-0.11.5
+[2021-08-28 10:57:40.752] [remoteagent] [info] Extracted extension to /home/aldair/.vscode-server/extensions/.f8e44fd4-46e6-45ae-a3cb-137f8f688441: formulahendry.code-runner
+[2021-08-28 10:57:41.049] [remoteagent] [info] Renamed to /home/aldair/.vscode-server/extensions/formulahendry.code-runner-0.11.5
+[2021-08-28 10:57:41.064] [remoteagent] [info] Extracting completed. formulahendry.code-runner
+[2021-08-28 10:57:41.524] [remoteagent] [info] Extension installed successfully: formulahendry.code-runner
+[2021-08-28 12:05:22.792] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2021-08-28 12:30:08.471] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2021-08-28 12:30:14.112] [remoteagent] [info] [::ffff:192.168.224.1][9d337557][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
